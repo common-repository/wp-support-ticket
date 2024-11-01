@@ -1,0 +1,104 @@
+msgid "Please login to create ticket."
+msgstr "Per creare un ticket devi essere loggato."
+
+msgid "Please enter ticket subject."
+msgstr "Inserisci l'oggetto del ticket."
+
+msgid "Please enter ticket message."
+msgstr "Inserisci il messaggio del ticket."
+
+msgid "Error: Ticket cannot be created."
+msgstr "Errore: il ticket non può essere creato."
+
+msgid "Support ticket created successfully."
+msgstr "Il ticket è stato creato correttamente."
+
+msgid "Please login to add reply."
+msgstr "Per rispondere devi essere loggato."
+
+msgid "Please enter reply message."
+msgstr "Inserisci il messaggio nella risposta."
+
+msgid "Error: Reply cannot be created."
+msgstr "Errore: la risposta non può essere creata."
+
+msgid "Reply added successfully."
+msgstr "Risposta aggiunta correttamente."
+
+msgid "A new ticket is created."
+msgstr "E' stato creato un nuovo ticket."
+
+msgid "Message:"
+msgstr "Messaggio:"
+
+msgid "Hello,"
+msgstr "Buongiorno"
+
+msgid "Your new support ticket is successfully added."
+msgstr "Il tuo nuovo ticket è stato aggiunto"
+
+msgid "Thank You"
+msgstr "Grazie"
+
+msgid "New support ticket"
+msgstr "Nuovo ticket"
+
+msgid "A new ticket reply is posted on "
+msgstr "Una nuova risposta è stata inserita "
+
+msgid "New reply added"
+msgstr "Nuova risposta inserita"
+
+msgid "Subject"
+msgstr "Oggetto"
+
+msgid "Ticket Title"
+msgstr "Titolo"
+
+msgid "Message"
+msgstr "Messaggio"
+
+msgid "Submit"
+msgstr "Invia"
+
+msgid "Please login to create support ticket."
+msgstr "Per creare un ticket devi essere loggato."
+
+msgid "Ticket"
+msgstr "Ticket"
+
+msgid "Please login to search ticket."
+msgstr "Per cercare un ticket devi essere loggato."
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Please login to view support ticket."
+msgstr "Per visualizzare un ticket devi essere loggato."
+
+msgid "Last Post By"
+msgstr "Ultima risposta da"
+
+msgid "Support ticket not found"
+msgstr "Ticket non trovato"
+
+msgid "Previous"
+msgstr "Precedente"
+
+msgid "Next"
+msgstr "Successivo"
+
+msgid "Please login to view support ticket."
+msgstr "Per visualizzare un ticket devi essere loggato."
+
+msgid "No reply posted yet."
+msgstr "Ancora nessuna risposta."
+
+msgid "Author"
+msgstr "Autore"
+
+msgid "Posts"
+msgstr "Posts"
+
+msgid "Reply"
+msgstr "Risposta"

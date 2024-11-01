@@ -1,0 +1,319 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Support Ticket\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-10 05:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.3; wp-5.5.1"
+
+#: view/frontend/ticket-list.php:7
+msgid "#"
+msgstr ""
+
+#: includes/class-reply.php:228
+msgid "A new ticket is created."
+msgstr ""
+
+#: includes/class-reply.php:332 includes/class-ticket-meta.php:171
+msgid "A new ticket reply is posted on "
+msgstr ""
+
+#: includes/class-ticket.php:17
+msgctxt "add new on admin bar"
+msgid "Ticket"
+msgstr ""
+
+#: includes/class-ticket.php:19
+msgid "Add New Ticket"
+msgstr ""
+
+#: view/admin/settings.php:16
+msgid "Admin Email"
+msgstr ""
+
+#: includes/class-ticket.php:16
+msgctxt "admin menu"
+msgid "Tickets"
+msgstr ""
+
+#: view/admin/settings.php:17
+msgid "admin@example.com"
+msgstr ""
+
+#: includes/class-ticket.php:23
+msgid "All Tickets"
+msgstr ""
+
+#: support-shortcodes.php:187 includes/class-ticket-meta.php:203
+msgid "Attachments:"
+msgstr ""
+
+#. Author of the plugin
+msgid "aviplugins.com"
+msgstr ""
+
+#: view/admin/settings.php:65
+msgid "Before Login Message Ticket Create"
+msgstr ""
+
+#: view/admin/settings.php:79
+msgid "Before Login Message Ticket List"
+msgstr ""
+
+#: view/admin/settings.php:72
+msgid "Before Login Message Ticket Search"
+msgstr ""
+
+#: includes/class-ticket.php:57
+msgid "Created By"
+msgstr ""
+
+#: includes/class-notification.php:61
+msgid "Dismiss"
+msgstr ""
+
+#: includes/class-ticket.php:21
+msgid "Edit Ticket"
+msgstr ""
+
+#: view/admin/settings.php:8
+msgid "Email Settings"
+msgstr ""
+
+#: view/admin/settings.php:31
+msgid "Enter From Email so that emails do not go to SPAM folder"
+msgstr ""
+
+#: view/admin/settings.php:28
+msgid "From Email"
+msgstr ""
+
+#: includes/class-reply.php:235 includes/class-ticket-meta.php:170
+msgid "Hello,"
+msgstr ""
+
+#: view/admin/settings.php:66 view/admin/settings.php:73
+#: view/admin/settings.php:81
+msgid "HTML tags and shortcodes are allowed"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/wp-support-ticket/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.aviplugins.com/"
+msgstr ""
+
+#: view/admin/settings.php:65
+msgid ""
+"If user is not logged in then this message will be displayed with <strong>"
+"[create_support]</strong> shortcode."
+msgstr ""
+
+#: view/admin/settings.php:80
+msgid ""
+"If user is not logged in then this message will be displayed with <strong>"
+"[ticket]</strong> shortcode."
+msgstr ""
+
+#: view/admin/settings.php:72
+msgid ""
+"If user is not logged in then this message will be displayed with <strong>"
+"[ticket_search]</strong> shortcode."
+msgstr ""
+
+#: view/admin/settings.php:57
+msgid "Important"
+msgstr ""
+
+#: includes/class-ticket.php:56 view/frontend/ticket-list.php:10
+msgid "Last Post By"
+msgstr ""
+
+#: includes/class-ticket.php:58
+msgid "Last Post Date"
+msgstr ""
+
+#: view/frontend/reply-add-form.php:8 view/frontend/ticket-create.php:15
+msgid "Message"
+msgstr ""
+
+#: includes/class-reply.php:229 includes/class-reply.php:333
+#: includes/class-ticket-meta.php:172
+msgid "Message:"
+msgstr ""
+
+#: includes/class-reply.php:334
+msgid "New reply added"
+msgstr ""
+
+#: includes/class-reply.php:239
+msgid "New support ticket"
+msgstr ""
+
+#: includes/class-ticket.php:20
+msgid "New Ticket"
+msgstr ""
+
+#: includes/class-ticket-meta.php:174
+msgid "New ticket reply"
+msgstr ""
+
+#: support-shortcodes.php:163
+msgid "Next"
+msgstr ""
+
+#: includes/class-ticket.php:26
+msgid "No Ticket found in Trash."
+msgstr ""
+
+#: includes/class-ticket.php:25
+msgid "No Ticket found."
+msgstr ""
+
+#: view/admin/settings.php:29
+msgid "no-reply@example.com"
+msgstr ""
+
+#: view/admin/settings.php:106
+msgid "Note"
+msgstr ""
+
+#: view/admin/settings.php:9
+msgid "Other Settings"
+msgstr ""
+
+#: view/admin/settings.php:59
+msgid ""
+"Please create a new page and put the shortcode <strong>[ticket]</strong> in "
+"the page and select that page here. Please do not use that page as Front "
+"page."
+msgstr ""
+
+#: view/frontend/ticket-create.php:16
+msgid "Please enter message"
+msgstr ""
+
+#: view/frontend/ticket-create.php:12
+msgid "Please enter subject"
+msgstr ""
+
+#: includes/class-ticket.php:14
+msgctxt "post type general name"
+msgid "Ticket"
+msgstr ""
+
+#: includes/class-ticket.php:15
+msgctxt "post type singular name"
+msgid "Ticket"
+msgstr ""
+
+#: includes/class-ticket-meta.php:46
+msgid "Posts"
+msgstr ""
+
+#: support-shortcodes.php:162
+msgid "Previous"
+msgstr ""
+
+#: includes/class-ticket-meta.php:60
+msgid "Reply"
+msgstr ""
+
+#: view/admin/settings.php:39 view/admin/settings.php:88
+msgid "Save"
+msgstr ""
+
+#: view/frontend/ticket-search.php:13
+msgid "Search"
+msgstr ""
+
+#: includes/class-ticket.php:24
+msgid "Search Tickets"
+msgstr ""
+
+#: view/admin/settings.php:10
+msgid "Shortcodes"
+msgstr ""
+
+#: includes/class-ticket-meta.php:18 includes/class-ticket.php:59
+#: view/frontend/ticket-list.php:9 view/frontend/ticket-status.php:2
+msgid "Status"
+msgstr ""
+
+#: view/frontend/ticket-create.php:11
+msgid "Subject"
+msgstr ""
+
+#: view/frontend/reply-add-form.php:15 view/frontend/ticket-create.php:23
+msgid "Submit"
+msgstr ""
+
+#: includes/class-reply.php:238 includes/class-ticket-meta.php:173
+msgid "Thank You"
+msgstr ""
+
+#: view/admin/settings.php:20
+#, php-format
+msgid ""
+"This email will be used when support ticket related emails are sent. (When "
+"new ticket is created by user, User add a reply to a ticket etc) %s version "
+"has option to edit Email Body and use Email Templates."
+msgstr ""
+
+#: view/frontend/ticket-list.php:8 view/frontend/ticket-search.php:12
+msgid "Ticket"
+msgstr ""
+
+#: includes/class-ticket.php:18
+msgctxt "Ticket"
+msgid "Add New"
+msgstr ""
+
+#: includes/class-ticket-meta.php:32
+msgid "Ticket Created by"
+msgstr ""
+
+#: view/admin/settings.php:46
+msgid "Ticket Shortcode Page"
+msgstr ""
+
+#: view/frontend/ticket-create.php:12
+msgid "Ticket Title"
+msgstr ""
+
+#: includes/class-ticket.php:55
+msgid "Title"
+msgstr ""
+
+#: includes/class-ticket.php:22
+msgid "View Ticket"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Wordpress user support plugin. Registered users will be able to create new "
+"support tickets and reply to already created support tickets."
+msgstr ""
+
+#: view/admin/settings.php:3
+msgid "WP Support Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "WP Support Ticket"
+msgstr ""
+
+#: includes/class-reply.php:237
+msgid "Your new support ticket is successfully added."
+msgstr ""
